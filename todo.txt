@@ -1,0 +1,5 @@
+1.Create an array that includes all the dice images;
+2.Get a random number, from 1 to 6, to select the images in the array;
+3.Display the images on dicee.html;
+4.Call the function once the page refresh;
+5.Create a function that changes the title;
